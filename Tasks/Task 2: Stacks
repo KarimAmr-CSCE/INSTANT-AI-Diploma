@@ -1,0 +1,9 @@
+stack = []
+for i in range (1, 27):
+    stack.append(i)
+print("Initial Stack: ")
+print(stack)
+
+print("Popped Elements: ")
+for i in range (1, 27):
+    print(stack.pop())
