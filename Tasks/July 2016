@@ -1,0 +1,5 @@
+import numpy as np
+
+# Displaying the specified range of dates in July 2016 using NumPy's arange function
+print("July, 2016")
+print(np.arange('2016-07', '2016-08', dtype='datetime64[D]'))
