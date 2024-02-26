@@ -1,0 +1,4 @@
+import numpy as np
+
+# Printing information about the np.add function using the np.info() method
+print(np.info(np.add))
