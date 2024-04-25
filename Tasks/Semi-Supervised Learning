@@ -1,1 +1,2 @@
-Semi-supervised learning is a type of learning that combines supervised and unsupervised learning. 
+Semi-supervised learning is a type of learning that combines supervised and unsupervised learning 
+by using both labeled and unlabeled data to train AI models for classification and regression tasks
